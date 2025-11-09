@@ -1,5 +1,5 @@
 services:
-   Uncomment to enable Dashboard (optional web interface)
+   # Uncomment to enable Dashboard (optional web interface)
    dashboard:
      container_name: dashboard
      image: hummingbot/dashboard:latest
